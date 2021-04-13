@@ -1,0 +1,15 @@
+{
+    "name": "alexey/forms_contract",
+    "authors": [
+        {
+            "name": "AlexeyRudkovskiy",
+            "email": "alex.rudkowskij@yandex.ru"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Lighthouse\\Contract\\Form\\": "src/"
+        }
+    }
+}
